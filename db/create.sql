@@ -21,7 +21,7 @@ CREATE TABLE products (
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-insert into products (name, description, code, price) values ('French Film', 'Mauris', '816905633-0', 10.5);
+insert into products (name, description, code, price) values ('Hogwarts trui', 'Mauris', '816905633-0', 10.5);
 insert into products (name, description, code, price) values ('Post Mortem', 'Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
