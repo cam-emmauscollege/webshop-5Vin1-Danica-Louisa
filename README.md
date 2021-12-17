@@ -1,4 +1,4 @@
-# 5HV-webshop-template (*vervang door de naam van je webshop*)
+# 5HV-webshop-template (*Sribulus*)
 
 Deze webshop is gebaseerd op het template voor 5HV van het Emmauscollege Rotterdam. <br>
 Je kunt het template zelf uitproberen in Replit: 
@@ -9,8 +9,8 @@ of in Gitpod (gitpod is zonder mailen van orders en zonder permanent hosten):
 ### In mijn webshop vind je: 
 - *Harry Potter merch*
 ### Deze webshop is gemaakt door: 
-- Danica
-- Louisa
+- Danica de Kreij
+- Louisa Sparreboom
 
 # Mijn aanpak
 Werk de planning af van boven naar beneden<br>
@@ -21,11 +21,11 @@ Stap 1: Start
 - [x] Pas de titel van het eerste product in de shop aan (zie mapje db)
 - [x] Pas de query aan zodat getoonde producten gesorteerd worden op naam (zie mapje api)
 
-Stap 2: Database opzetten hallo dit is een test
-- [ ] Maak tabellen en velden (CREATE TABLE commando) in je database waarin alle informatie kan worden opgeslagen die je over je producten wilt tonen.<br>
+Stap 2: Database opzetten 
+- [x] Maak tabellen en velden (CREATE TABLE commando) in je database waarin alle informatie kan worden opgeslagen die je over je producten wilt tonen.<br>
 Tip: je kunt een multipliciteitendiagram gebruiken als tussenstap voor je database-ontwerp
-- [ ] Vul de tabellen met informatie (INSERT commando)
-- [ ] Voeg eventueel plaatjes toe (web/images map)
+- [x] Vul de tabellen met informatie (INSERT commando)
+- [x] Voeg eventueel plaatjes toe (web/images map)
 
 Stap 3: API aanpassen 
 - [ ] Pas de API aan, zodat je alle informatie uit je database kunt opvragen via de API
