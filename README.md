@@ -21,7 +21,7 @@ Stap 1: Start
 - [x] Pas de titel van het eerste product in de shop aan (zie mapje db)
 - [x] Pas de query aan zodat getoonde producten gesorteerd worden op naam (zie mapje api)
 
-Stap 2: Database opzetten 
+Stap 2: Database opzetten hallo dit is een test
 - [ ] Maak tabellen en velden (CREATE TABLE commando) in je database waarin alle informatie kan worden opgeslagen die je over je producten wilt tonen.<br>
 Tip: je kunt een multipliciteitendiagram gebruiken als tussenstap voor je database-ontwerp
 - [ ] Vul de tabellen met informatie (INSERT commando)
