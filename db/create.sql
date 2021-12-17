@@ -13,13 +13,13 @@ CREATE TABLE products (
 
 CREATE TABLE category (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  name VARCHAR(255),
-)
+  name VARCHAR(255)
+);
 
 CREATE TABLE collection (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  name VARCHAR(255),
-)
+  name VARCHAR(255)
+);
 
 --
 -- populate with data
