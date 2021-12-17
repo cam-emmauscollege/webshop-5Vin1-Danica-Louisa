@@ -27,4 +27,10 @@ insert into products (name, description, code, price) values ('Hermiones wand', 
 insert into products (name, description, code, price) values ('Chocolate frog', 'Een heerlijke verassing van chocolade met een collectable card van een beroemde tovenaar.', '693155505-7', 4.50);
 insert into products (name, description, code, price) values ('Marauders map notebook', 'Een handig notitieboekje waar je al je geheimen in kunt opschrijven met de marauders map erop.', '686928463-6', 10);
 insert into products (name, description, code, price) values ('Filled Hogwarts trunk', 'Een echte Hogwarts koffer met leuke spulletjes.', '492662523-7', 75);
+insert into products (name, description, code, price) values ('Feather pen', 'Een pen in de vorm van een majestueuze ganzenveer.', '629572923-7', 3);
+insert into products (name, description, code, price) values ('Ravenclaw scarf', 'Een dikke sjaal om je warm te houden tijdens koude dagen met het logo van Ravenclaw erop.', '946217899-7', 12.50);
+insert into products (name, description, code, price) values ('Hufflepuff scarf', 'Een dikke sjaal om je warm te houden tijdens koude dagen met het logo van Hufflepuff erop.', '875470942-6', 12.50);
+insert into products (name, description, code, price) values ('Slytherin scarf', 'Een dikke sjaal om je warm te houden tijdens koude dagen met het logo van Slytherin erop.', '274396510-4', 12.50);
+insert into products (name, description, code, price) values ('Gryffindor scarf', 'Een dikke sjaal om je warm te houden tijdens koude dagen met het logo van Gryffindor erop.', '930321697-9', 12.50);
+insert into products (name, description, code, price) values ('Baby niffler plushies set', 'Schattige knuffels van je favoriete magische wezens.', '827402367-2', 24);
 
