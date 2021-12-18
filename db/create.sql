@@ -11,12 +11,14 @@ CREATE TABLE products (
   price NUMERIC(10, 2)
 );
 
+DROP TABLE IF EXISTS category; 
 CREATE TABLE category (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name VARCHAR(255)
 );
 
-CREATE TABLE collection (
+DROP TABLE IF EXISTS collectie; 
+CREATE TABLE collectie (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name VARCHAR(255)
 );
