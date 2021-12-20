@@ -1,4 +1,4 @@
-# 5HV-webshop-template (*Sribulus*)
+# 5HV-webshop-template (*Scribulus*)
 
 Deze webshop is gebaseerd op het template voor 5HV van het Emmauscollege Rotterdam. <br>
 Je kunt het template zelf uitproberen in Replit: 
