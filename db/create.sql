@@ -73,3 +73,43 @@ insert into kleuren (name) values ('rood');
 insert into kleuren (name) values ('groen');
 insert into kleuren (name) values ('blauw');
 insert into kleuren (name) values ('geel');
+insert into kleuren (name) values ('zwart');
+insert into kleuren (name) values ('grijs');
+insert into kleuren (name) values ('wit');
+
+-- kledingkleuren tabel
+insert into kleuren (products_id, kleuren_id) values (1, 3);
+insert into kleuren (products_id, kleuren_id) values (1, 6);
+
+insert into kleuren (products_id, kleuren_id) values (2, 4);
+insert into kleuren (products_id, kleuren_id) values (2, 5);
+
+insert into kleuren (products_id, kleuren_id) values (3, 2);
+insert into kleuren (products_id, kleuren_id) values (3, 6);
+
+insert into kleuren (products_id, kleuren_id) values (4, 1);
+insert into kleuren (products_id, kleuren_id) values (4, 4);
+
+insert into kleuren (products_id, kleuren_id) values (5, 3);
+insert into kleuren (products_id, kleuren_id) values (5, 4);
+
+insert into kleuren (products_id, kleuren_id) values (6, 4);
+insert into kleuren (products_id, kleuren_id) values (6, 5);
+
+insert into kleuren (products_id, kleuren_id) values (7, 2);
+insert into kleuren (products_id, kleuren_id) values (7, 7);
+
+insert into kleuren (products_id, kleuren_id) values (8, 4);
+insert into kleuren (products_id, kleuren_id) values (8, 1);
+
+insert into kleuren (products_id, kleuren_id) values (9, 3);
+insert into kleuren (products_id, kleuren_id) values (9, 6);
+
+insert into kleuren (products_id, kleuren_id) values (10, 4);
+insert into kleuren (products_id, kleuren_id) values (10, 5);
+
+insert into kleuren (products_id, kleuren_id) values (11, 2);
+insert into kleuren (products_id, kleuren_id) values (11, 6);
+
+insert into kleuren (products_id, kleuren_id) values (12, 1);
+insert into kleuren (products_id, kleuren_id) values (12, 4);
