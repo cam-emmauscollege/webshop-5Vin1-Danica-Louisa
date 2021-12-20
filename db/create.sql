@@ -72,3 +72,4 @@ insert into collectie (name) values ('Gryffindor');
 insert into kleuren (name) values ('rood');
 insert into kleuren (name) values ('groen');
 insert into kleuren (name) values ('blauw');
+insert into kleuren (name) values ('geel');
