@@ -196,6 +196,8 @@
           clone.querySelector(".product_name").textContent = product.name
           clone.querySelector(".product_price").textContent = `€ ${product.price.toFixed(2)}`
           clone.querySelector(".product_image").src =`images/${product.id}.jpg`
+          clone.querySelector(".product_categorie").textcontent = product.categorie
+			    clone.querySelector(".product_collectie").textcontent = product.collectie
           clone.querySelector(".product_amount_show").textContent = amount             
           clone.querySelector(".product_id_show").textContent = product.id             
           clone.querySelector(".product_id").value = product.id 
