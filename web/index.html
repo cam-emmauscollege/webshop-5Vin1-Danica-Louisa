@@ -126,8 +126,8 @@
               clone.querySelector(".product_title").textContent = name
               clone.querySelector(".product_description").textContent =`${product.description.substr(0, 100)}...`
               clone.querySelector(".product_price").textContent = `€ ${product.price.toFixed(2)}`
-			  clone.querySelector(".product_categorie").textcontent = product.categorie
-			  clone.querySelector(".product_collectie").textcontent = product.collectie
+			  clone.querySelector(".product_categorie").textcontent = product.categorie_naam
+			  clone.querySelector(".product_collectie").textcontent = product.collectie_naam
               clone.querySelector(".product_code").textContent = product.code
               clone.querySelector(".product_id").value = product.id
               clone.querySelector(".product_id").dataset.json = JSON.stringify(product)
