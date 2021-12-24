@@ -123,12 +123,12 @@
               // voeg product toe aan DOM, 
               // zodat deze zichtbaar wordt op de webpagina
               const clone = template.content.cloneNode(true);
-              clone.querySelector(".product_title").textContent = name
+              clone.querySelector(".product_title").textContent = product.name
               clone.querySelector(".product_description").textContent =`${product.description.substr(0, 100)}...`
               clone.querySelector(".product_price").textContent = `€ ${product.price.toFixed(2)}`
 			  clone.querySelector(".product_categorie").textcontent = product.categorie_naam
 			  clone.querySelector(".product_collectie").textcontent = product.collectie_naam
-              clone.querySelector(".product_code").textContent = product.code
+			  clone.querySelector(".product_code").textContent = product.code
               clone.querySelector(".product_id").value = product.id
               clone.querySelector(".product_id").dataset.json = JSON.stringify(product)
               clone.querySelector(".product_image").src =`/images/${product.id}.jpg`
